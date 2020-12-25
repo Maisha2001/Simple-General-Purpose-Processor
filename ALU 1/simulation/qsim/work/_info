@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\maish\Documents\1. 2ND YEAR\COE 328 (Digital Systems)\Labs\Lab 6\Lab 6\simulation\qsim
+vproblem_set1_schematic
+Z1 !s100 17bDmf0cV5mO=@[@KSC0c1
+Z2 IfKZ2TOPW]I@;X4]LfSd:01
+Z3 VY2izU1N;a9BZJ8K;A?I?Y2
+Z4 dC:\Users\maish\Documents\Uni Archived\2nd Year (first term)\COE 328 (Digital Systems)\Labs\Lab 6\Lab 6\simulation\qsim
+Z5 w1608872438
+Z6 8Components.vo
+Z7 FComponents.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Components.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1608872440.966000
+Z12 !s107 Components.vo|
+!s101 -O0
+vproblem_set1_schematic_vlg_check_tst
+!i10b 1
+Z13 !s100 2eHCck4e6Gk9:9hP8JWo]1
+Z14 IGLhJzb8P2a7Ym<FY2KJ1M0
+Z15 V^SFjC?e]zPSUjN=kaSa_<0
+R4
+Z16 w1608872437
+Z17 8Components.vt
+Z18 FComponents.vt
+L0 71
+R8
+r1
+!s85 0
+31
+Z19 !s108 1608872441.158000
+Z20 !s107 Components.vt|
+Z21 !s90 -work|work|Components.vt|
+!s101 -O0
+R10
+vproblem_set1_schematic_vlg_sample_tst
+!i10b 1
+Z22 !s100 adk3Eeo`oHeCI`kgjoWYc0
+Z23 IOYPKcSC^USX6<;WJ`iIEo1
+Z24 VkhcWSLRGjfeG1VT3R:gfo0
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vproblem_set1_schematic_vlg_vec_tst
+!i10b 1
+Z25 !s100 ^Z?HH;zY_XnKdGgIiHNmN0
+Z26 I`GGCNQ0_ooXEHo`5=>P5X3
+Z27 V<G6jzQi;R]`]>J3@lO9=63
+R4
+R16
+R17
+R18
+Z28 L0 675
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
