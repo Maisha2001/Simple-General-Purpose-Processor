@@ -1,0 +1,310 @@
+$comment
+	File created using the following command:
+		vcd file Components.msim.vcd -direction
+$end
+$date
+	Tue Nov 24 16:26:48 2020
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module problem_set3_schematic_vlg_vec_tst $end
+$var reg 8 ! A [7:0] $end
+$var reg 8 " B [7:0] $end
+$var reg 1 # Clock $end
+$var reg 1 $ data_in $end
+$var reg 1 % Enable_Decoder $end
+$var reg 1 & FSM_reset $end
+$var reg 1 ' Reset_A $end
+$var reg 1 ( Reset_B $end
+$var wire 1 ) leds [0] $end
+$var wire 1 * leds [1] $end
+$var wire 1 + leds [2] $end
+$var wire 1 , leds [3] $end
+$var wire 1 - leds [4] $end
+$var wire 1 . leds [5] $end
+$var wire 1 / leds [6] $end
+$var wire 1 0 student_id [0] $end
+$var wire 1 1 student_id [1] $end
+$var wire 1 2 student_id [2] $end
+$var wire 1 3 student_id [3] $end
+$var wire 1 4 student_id [4] $end
+$var wire 1 5 student_id [5] $end
+$var wire 1 6 student_id [6] $end
+$var wire 1 7 sampler $end
+$scope module i1 $end
+$var wire 1 8 gnd $end
+$var wire 1 9 vcc $end
+$var wire 1 : unknown $end
+$var tri1 1 ; devclrn $end
+$var tri1 1 < devpor $end
+$var tri1 1 = devoe $end
+$var wire 1 > Enable_Decoder~combout $end
+$var wire 1 ? Clock~combout $end
+$var wire 1 @ Clock~clkctrl_outclk $end
+$var wire 1 A FSM_reset~combout $end
+$var wire 1 B FSM_reset~clkctrl_outclk $end
+$var wire 1 C data_in~combout $end
+$var wire 1 D inst|yfsm.s6~regout $end
+$var wire 1 E inst|yfsm.s7~regout $end
+$var wire 1 F inst|yfsm.s8~regout $end
+$var wire 1 G inst|yfsm.s0~0_combout $end
+$var wire 1 H inst|yfsm.s0~regout $end
+$var wire 1 I inst|yfsm.s1~0_combout $end
+$var wire 1 J inst|yfsm.s1~regout $end
+$var wire 1 K inst|yfsm.s2~feeder_combout $end
+$var wire 1 L inst|yfsm.s2~regout $end
+$var wire 1 M inst|yfsm.s3~feeder_combout $end
+$var wire 1 N inst|yfsm.s3~regout $end
+$var wire 1 O inst|yfsm.s4~regout $end
+$var wire 1 P inst|yfsm.s5~regout $end
+$var wire 1 Q inst3|Result[3]~0_combout $end
+$var wire 1 R inst3|WideNor0~6_combout $end
+$var wire 1 S inst3|WideNor0~3_combout $end
+$var wire 1 T inst3|WideNor0~19_combout $end
+$var wire 1 U inst3|Result[3]~1_combout $end
+$var wire 1 V inst4|Mux0~0_combout $end
+$var wire 1 W inst4|Mux1~0_combout $end
+$var wire 1 X inst4|Mux3~0_combout $end
+$var wire 1 Y inst4|Mux4~0_combout $end
+$var wire 1 Z inst4|Mux5~0_combout $end
+$var wire 1 [ inst4|Mux6~0_combout $end
+$var wire 1 \ inst3|Result [3] $end
+$var wire 1 ] inst3|Result [2] $end
+$var wire 1 ^ inst3|Result [1] $end
+$var wire 1 _ inst3|Result [0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+b0 "
+0#
+1$
+1%
+0&
+1'
+1(
+1/
+0.
+1-
+0,
+1+
+0*
+0)
+16
+15
+04
+13
+12
+01
+10
+x7
+08
+19
+x:
+1;
+1<
+1=
+1>
+0?
+0@
+0A
+0B
+1C
+0D
+0E
+0F
+1G
+0H
+1I
+0J
+0K
+0L
+0M
+0N
+0O
+0P
+0Q
+1R
+1S
+0T
+0U
+0V
+1W
+0X
+0Y
+0Z
+0[
+z_
+z^
+z]
+0\
+$end
+#10000
+1#
+1?
+1@
+07
+1J
+1H
+0R
+1K
+1[
+1X
+0W
+1Q
+0I
+0S
+1Y
+0X
+06
+03
+11
+14
+13
+#20000
+0#
+0?
+0@
+17
+#30000
+1#
+1?
+1@
+07
+1L
+0J
+1M
+0K
+#40000
+0#
+0?
+0@
+17
+#50000
+1#
+1?
+1@
+07
+1N
+0L
+0[
+0Y
+1X
+1R
+0M
+04
+16
+03
+#60000
+0#
+0?
+0@
+17
+#70000
+1#
+1?
+1@
+07
+1O
+0N
+1W
+0R
+1Y
+0X
+1S
+0S
+14
+01
+13
+#80000
+0#
+0?
+0@
+17
+#90000
+1#
+1?
+1@
+07
+1P
+0O
+1Z
+1V
+0Q
+1[
+0W
+1R
+0Y
+1X
+05
+00
+06
+11
+04
+03
+#100000
+0#
+0?
+0@
+17
+#110000
+1#
+1?
+1@
+07
+0P
+1D
+#120000
+0#
+0?
+0@
+17
+#130000
+1#
+1?
+1@
+07
+1E
+0D
+0[
+0Z
+0X
+1W
+1S
+1Q
+1X
+0W
+16
+15
+13
+01
+03
+11
+#140000
+0#
+0?
+0@
+17
+#150000
+1#
+1?
+1@
+07
+1F
+0E
+0G
+1[
+1Y
+0X
+0V
+14
+06
+13
+10
+#160000

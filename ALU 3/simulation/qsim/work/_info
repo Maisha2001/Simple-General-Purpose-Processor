@@ -1,0 +1,157 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\maish\Documents\1. 2ND YEAR\COE 328 (Digital Systems)\Labs\Lab 6\Lab 6\simulation\qsim
+vproblem_set1_schematic
+Z1 I7_=eU5NRJiJ3WRm3kRSPN1
+Z2 VY2izU1N;a9BZJ8K;A?I?Y2
+Z3 dC:\Users\maish\Documents\1. 2ND YEAR\COE 328 (Digital Systems)\Labs\Lab 6\Lab 6\simulation\qsim
+Z4 w1606177009
+Z5 8Components.vo
+Z6 FComponents.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 c:LZ<dC9==3?jSTQDaa9Q2
+Z10 !s108 1606177011.408000
+Z11 !s107 Components.vo|
+Z12 !s90 -work|work|Components.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vproblem_set1_schematic_vlg_check_tst
+Z13 I:N^ac`J;bD:VXH2L?Wi030
+Z14 V^SFjC?e]zPSUjN=kaSa_<0
+R3
+Z15 w1606177008
+Z16 8Components.vt
+Z17 FComponents.vt
+L0 71
+R7
+r1
+31
+Z18 !s108 1606177011.602000
+Z19 !s107 Components.vt|
+Z20 !s90 -work|work|Components.vt|
+R8
+Z21 !s100 PR3HX_J[Y;dV:YPSd_^:S1
+!i10b 1
+!s85 0
+!s101 -O0
+vproblem_set1_schematic_vlg_sample_tst
+Z22 IOYPKcSC^USX6<;WJ`iIEo1
+Z23 VkhcWSLRGjfeG1VT3R:gfo0
+R3
+R15
+R16
+R17
+L0 29
+R7
+r1
+31
+R18
+R19
+R20
+R8
+Z24 !s100 adk3Eeo`oHeCI`kgjoWYc0
+!i10b 1
+!s85 0
+!s101 -O0
+vproblem_set1_schematic_vlg_vec_tst
+Z25 I;g24UgUmKXJn]1VNBWCO91
+Z26 V<G6jzQi;R]`]>J3@lO9=63
+R3
+R15
+R16
+R17
+Z27 L0 675
+R7
+r1
+31
+R18
+R19
+R20
+R8
+Z28 !s100 _QLB6kiCm4CmG0e6nI4hJ1
+!i10b 1
+!s85 0
+!s101 -O0
+vproblem_set3_schematic
+Z29 !s100 6R=7Tkf87z`VEWnY1oZdb1
+Z30 IU76a`PB11SWQSaoNocI9`3
+Z31 VV7[Zk2hGU4YHJk[ABd[0`0
+Z32 dC:\Users\maish\Documents\1. 2ND YEAR\COE 328 (Digital Systems)\Labs\Lab 6\Lab 6 - Problem Set 3\simulation\qsim
+Z33 w1607210908
+R5
+R6
+L0 31
+R7
+r1
+31
+R12
+R8
+!i10b 1
+!s85 0
+Z34 !s108 1607210909.292000
+R11
+!s101 -O0
+vproblem_set3_schematic_vlg_check_tst
+Z35 !s100 hNho7J3I]MKH^eA;PBBF62
+Z36 IHYiISX;8b:[DGIXo<`3J72
+Z37 VKfRfD2KLoD]M<=f2HB]Kj2
+R32
+Z38 w1606253204
+R16
+R17
+L0 71
+R7
+r1
+31
+Z39 !s108 1606253207.629000
+R19
+R20
+R8
+!i10b 1
+!s85 0
+!s101 -O0
+vproblem_set3_schematic_vlg_sample_tst
+!i10b 1
+Z40 !s100 MUYlIM^Y[VJHiAb;ic5V81
+Z41 Igkk@9M3Vmk^8eW6>8>hMI2
+Z42 V?3O^7Ol>?PZA]>TVJ3`<L0
+R32
+w1607210907
+R16
+R17
+L0 29
+R7
+r1
+!s85 0
+31
+!s108 1607210909.432000
+!s107 Components.vt|
+R20
+!s101 -O0
+R8
+vproblem_set3_schematic_vlg_vec_tst
+Z43 !s100 38JDXA1LXNZ]AXLeNY;i?0
+Z44 IS29gkd]]CF2VF@UD`1YJ=2
+Z45 VoDdm7YJ];d^kVo<4Ki6@_3
+R32
+R38
+R16
+R17
+Z46 L0 407
+R7
+r1
+31
+R39
+R19
+R20
+R8
+!i10b 1
+!s85 0
+!s101 -O0
